@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "BSTRBSMP.aternos.me",
+    "port": 14373,
     "version": "1.17.1"
   },
 
